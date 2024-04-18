@@ -1,6 +1,15 @@
+<<<<<<< HEAD
 MCQ,Choices,Correct
 What is the main goal of machine learning?,a: To achieve artificial intelligence | b: To tackle solvable problems of a practical nature | c: To focus on symbolic approaches inherited from AI | d: To abandon statistics and focus on logical methods,b
 What is the main difference between optimization and machine learning?,a: Optimization focuses on generalization while machine learning focuses on prediction | b: Optimization minimizes loss on unseen samples while machine learning minimizes loss on training set | c: Optimization minimizes loss on a training set while machine learning minimizes loss on unseen samples | d: There is no difference between optimization and machine learning,c
 What is the principal goal of statistics?,a: To draw population inferences from a sample | b: To find generalizable predictive patterns | c: To focus on methodological principles | d: To build machine learning algorithms,a
 What distinguishes machine learning from conventional statistical analyses?,a: Machine learning requires pre-structured models | b: Conventional statistics shape the model based on data | c: Machine learning is built on a pre-structured model | d: Machine learning detects underlying patterns from data,d
 What term did Michael I. Jordan suggest as a placeholder for the overall field of machine learning and statistics?,a: Artificial Intelligence | b: Data Mining | c: Data Science | d: Optimization,c
+=======
+MCQ,Choices,Correct
+What is the main goal of machine learning?,a: To achieve artificial intelligence | b: To tackle solvable problems of a practical nature | c: To focus on symbolic approaches inherited from AI | d: To abandon statistics and focus on logical methods,b
+What is the main difference between optimization and machine learning?,a: Optimization focuses on generalization while machine learning focuses on prediction | b: Optimization minimizes loss on unseen samples while machine learning minimizes loss on training set | c: Optimization minimizes loss on a training set while machine learning minimizes loss on unseen samples | d: There is no difference between optimization and machine learning,c
+What is the principal goal of statistics?,a: To draw population inferences from a sample | b: To find generalizable predictive patterns | c: To focus on methodological principles | d: To build machine learning algorithms,a
+What distinguishes machine learning from conventional statistical analyses?,a: Machine learning requires pre-structured models | b: Conventional statistics shape the model based on data | c: Machine learning is built on a pre-structured model | d: Machine learning detects underlying patterns from data,d
+What term did Michael I. Jordan suggest as a placeholder for the overall field of machine learning and statistics?,a: Artificial Intelligence | b: Data Mining | c: Data Science | d: Optimization,c
+>>>>>>> b9a3d26ca0086d1a3de415b24b1e9f2f5c7e34ca
